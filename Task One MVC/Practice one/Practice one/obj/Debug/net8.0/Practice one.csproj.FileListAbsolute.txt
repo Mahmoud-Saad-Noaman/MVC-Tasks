@@ -1,0 +1,34 @@
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\appsettings.Development.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\appsettings.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.staticwebassets.runtime.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.staticwebassets.endpoints.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.exe
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.deps.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.runtimeconfig.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.dll
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\bin\Debug\net8.0\Practice one.pdb
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.AssemblyInfoInputs.cache
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.AssemblyInfo.cs
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.csproj.CoreCompileInputs.cache
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.MvcApplicationPartsAssemblyInfo.cache
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.RazorAssemblyInfo.cache
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.RazorAssemblyInfo.cs
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\scopedcss\bundle\Practice one.styles.css
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\scopedcss\projectbundle\Practice one.bundle.scp.css
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets.build.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets.development.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets\msbuild.Practice one.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets\msbuild.Practice one.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets\msbuild.build.Practice one.props
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practice one.props
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practice one.props
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.dll
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\refint\Practice one.dll
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.pdb
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\Practice one.genruntimeconfig.cache
+D:\Rowad Misr\Task One MVC\Practice one\Practice one\obj\Debug\net8.0\ref\Practice one.dll

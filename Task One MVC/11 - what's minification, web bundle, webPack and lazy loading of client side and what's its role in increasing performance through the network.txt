@@ -1,0 +1,32 @@
+Minification
+Minification is the process of removing unnecessary characters (like whitespace, comments, and line breaks) from code (HTML, CSS, JavaScript) without changing its functionality.
+
+Role in Performance:
+Reduces file size, leading to faster downloads over the network.
+Improves page load time, especially on slow connections.
+------------------------------------------------------------------------------------------
+
+Web Bundles
+Web Bundles are a collection of resources (HTML, CSS, JavaScript, images, etc.) packaged into a single file for efficient delivery over the network.
+
+Role in Performance:
+Reduces HTTP requests, which decreases latency and improves load time.
+Optimizes caching since the browser only needs to cache one file instead of multiple files.
+------------------------------------------------------------------------------------------
+
+WebPack
+WebPack is a module bundler for JavaScript applications. It takes modules with dependencies (like JavaScript, CSS, images) and generates static assets (bundles).
+
+Role in Performance:
+Reduces file size through minification and compression.
+Improves load time by splitting code and loading only what’s needed.
+Enhances caching by generating unique filenames for bundles.
+------------------------------------------------------------------------------------------
+
+Lazy Loading
+Lazy loading is a technique where resources (like images, JavaScript, or components) are loaded only when they are needed, rather than all at once.
+
+Role in Performance:
+Reduces initial page load time by loading only essential resources.
+Saves bandwidth by loading resources on demand.
+Improves user experience by making the page interactive faster.

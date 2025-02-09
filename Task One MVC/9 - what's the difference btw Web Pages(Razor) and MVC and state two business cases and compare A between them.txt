@@ -1,0 +1,28 @@
+What is Web Pages (Razor)?
+Razor Pages is a page-based web development framework.
+Uses .cshtml files where both HTML and C# code are combined.
+Each page has a corresponding C# code-behind file (.cshtml.cs).
+Best for simple, lightweight applications that don’t require complex routing.
+EX:
+@model IndexModel
+<h1>Welcome, @Model.Username!</h1>
+
+Case: 	A basic product showcase without login/cart features.
+
+
+
+What is MVC (Model-View-Controller)?
+MVC follows a structured pattern separating Model (data), View (UI), and Controller (logic).
+Used for complex, enterprise-level applications.
+Provides better organization and maintainability.
+EX:
+public class HomeController : Controller
+{
+    public IActionResult Index()
+    {
+        ViewData["Message"] = "Welcome!";
+        return View();
+    }
+}
+
+Case: A full e-commerce platform with login, cart, and payment system.

@@ -1,0 +1,9 @@
+A URL segment is any part of the path in a URL, separated by /.
+Segments define the structure of the resource being accessed.
+segment used to Defines resource structure
+EX: https://www.youtube.com/shorts/vX1tdpVAcPM
+
+
+A fragment (also called an anchor) is a part of the URL that refers to a specific section within a webpage. 
+It is preceded by a # symbol.
+fragment used to Jumps to a section in the page

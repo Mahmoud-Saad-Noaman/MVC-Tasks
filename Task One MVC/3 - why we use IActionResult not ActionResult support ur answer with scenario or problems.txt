@@ -1,0 +1,31 @@
+The main reason we use IActionResult instead of ActionResult is because IActionResult is an interface that provides more flexibility and better handles different types of return values.
+
+For example, you can return:
+View() for rendering a view.
+Json() for returning JSON data.
+Redirect() for redirecting to another action or URL.
+This flexibility is not possible with ActionResult
+
+Ex:
+public IActionResult GetProduct(int id)
+{
+    var product = _productService.GetProductById(id);
+    
+    if (product == null)
+    {
+        return NotFound(new { message = "Product not found" }); // Returns 404
+    }
+
+    if (!product.IsActive)
+    {
+        return BadRequest(new { message = "Product is inactive" }); // Returns 400
+    }
+
+    return Ok(product); // Returns 200 with product data
+}
+
+
+Problems with Using ActionResult
+Limited Flexibility: You cannot return multiple types of results from the same method.
+Harder to Test: ActionResult is a concrete class, making it harder to mock and test.
+Less Future-Proof: If new result types are introduced, you may need to refactor your code

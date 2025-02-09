@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rowad Misr\\Task One MVC\\Practice one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8A912A-4F1B-4E17-8132-3113D98C3CBA}|Practice one\\Practice one.csproj|d:\\rowad misr\\task one mvc\\practice one\\practice one\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC8A912A-4F1B-4E17-8132-3113D98C3CBA}|Practice one\\Practice one.csproj|solutionrelative:practice one\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8A912A-4F1B-4E17-8132-3113D98C3CBA}|Practice one\\Practice one.csproj|d:\\rowad misr\\task one mvc\\practice one\\practice one\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8A912A-4F1B-4E17-8132-3113D98C3CBA}|Practice one\\Practice one.csproj|solutionrelative:practice one\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\Task One MVC\\Practice one\\Practice one\\Views\\Home\\View1.cshtml",
+              "RelativeDocumentMoniker": "Practice one\\Views\\Home\\View1.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\Task One MVC\\Practice one\\Practice one\\Views\\Home\\View1.cshtml",
+              "RelativeToolTip": "Practice one\\Views\\Home\\View1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:16:58.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\Task One MVC\\Practice one\\Practice one\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practice one\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Rowad Misr\\Task One MVC\\Practice one\\Practice one\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practice one\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:11:05.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

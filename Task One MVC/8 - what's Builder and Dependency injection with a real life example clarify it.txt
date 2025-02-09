@@ -1,0 +1,6 @@
+What is the Builder Pattern?
+The Builder Pattern is a creational design pattern used to construct complex objects step by step. Instead of using a long constructor with many parameters, it allows setting values progressively in a readable way.
+
+
+What is Dependency Injection (DI)?
+Dependency Injection is a design pattern used to manage dependencies in an application by injecting required objects rather than creating them inside a class.

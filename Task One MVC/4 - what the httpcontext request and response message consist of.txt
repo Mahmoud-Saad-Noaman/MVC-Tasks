@@ -1,0 +1,9 @@
+1. HttpContext.Request
+The HttpContext.Request object represents the incoming HTTP request from the client. 
+It contains all the details about the request, such as headers, body, query parameters, and more. Here’s what it typically consists of:
+Headers, Body, Query String, Cookies, Path and Route Data, Form Data
+
+
+2. HttpContext.Response
+The HttpContext.Response object represents the outgoing HTTP response to the client. It allows you to customize the response, including status codes, headers, and body content.
+

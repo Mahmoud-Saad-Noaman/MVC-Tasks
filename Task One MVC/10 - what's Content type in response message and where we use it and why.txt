@@ -1,0 +1,9 @@
+The Content-Type header is a crucial part of an HTTP response message. It tells the client (e.g., a web browser or API consumer) what type of data is being returned in the response body. This helps the client understand how to process and display the data correctly.
+
+Common Use Cases:
+Web Pages, APIs, File Downloads, Form Submissions:
+
+Why use:
+
+To 
+Avoiding Errors and Achieving security.

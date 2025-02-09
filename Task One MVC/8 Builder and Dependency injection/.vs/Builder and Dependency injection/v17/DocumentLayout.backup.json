@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rowad Misr\\Task One MVC\\Builder and Dependency injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67071B19-F2B6-4CB9-BC0B-C3284C830C29}|Dependency injection\\Dependency injection.csproj|d:\\rowad misr\\task one mvc\\builder and dependency injection\\dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67071B19-F2B6-4CB9-BC0B-C3284C830C29}|Dependency injection\\Dependency injection.csproj|solutionrelative:dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FFAB93-1E27-4433-B11E-99D25F66149B}|Builder and Dependency injection\\Builder and Dependency injection.csproj|d:\\rowad misr\\task one mvc\\builder and dependency injection\\builder and dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FFAB93-1E27-4433-B11E-99D25F66149B}|Builder and Dependency injection\\Builder and Dependency injection.csproj|solutionrelative:builder and dependency injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\Task One MVC\\Builder and Dependency injection\\Dependency injection\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency injection\\Program.cs",
+              "ToolTip": "D:\\Rowad Misr\\Task One MVC\\Builder and Dependency injection\\Dependency injection\\Program.cs",
+              "RelativeToolTip": "Dependency injection\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:20:26.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\Task One MVC\\Builder and Dependency injection\\Builder and Dependency injection\\Program.cs",
+              "RelativeDocumentMoniker": "Builder and Dependency injection\\Program.cs",
+              "ToolTip": "D:\\Rowad Misr\\Task One MVC\\Builder and Dependency injection\\Builder and Dependency injection\\Program.cs",
+              "RelativeToolTip": "Builder and Dependency injection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:19:47.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
