@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\controllers\\studentcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\controllers\\studentcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\views\\student\\showbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\views\\student\\showbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\entities\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\entities\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowById.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Student\\ShowById.cshtml",
+              "RelativeDocumentMoniker": "Task Two MVC\\Views\\Student\\ShowById.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Student\\ShowById.cshtml",
+              "RelativeToolTip": "Task Two MVC\\Views\\Student\\ShowById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T15:31:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Program.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Program.cs",
+              "RelativeToolTip": "Task Two MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:30:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Student\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "Task Two MVC\\Views\\Student\\ShowAll.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Student\\ShowAll.cshtml",
+              "RelativeToolTip": "Task Two MVC\\Views\\Student\\ShowAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:22:30.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController .cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Controllers\\StudentController .cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Controllers\\StudentController .cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Controllers\\StudentController .cs",
+              "RelativeToolTip": "Task Two MVC\\Controllers\\StudentController .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:03:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Task Two MVC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:38:59.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StuCrsRes.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\StuCrsRes.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Entities\\StuCrsRes.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\StuCrsRes.cs",
+              "RelativeToolTip": "Task Two MVC\\Entities\\StuCrsRes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:07:30.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Entities\\Student.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Student.cs",
+              "RelativeToolTip": "Task Two MVC\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:07:29.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Entities\\Course.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Course.cs",
+              "RelativeToolTip": "Task Two MVC\\Entities\\Course.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:07:29.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Entities\\Teacher.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Task Two MVC\\Entities\\Teacher.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:07:29.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Entities\\Department.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Entities\\Department.cs",
+              "RelativeToolTip": "Task Two MVC\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:06:14.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
