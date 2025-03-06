@@ -1,0 +1,15 @@
+async and await are two keywords that can help make asynchronous code read more like synchronous code. This can help code look cleaner while keeping the benefits of asynchronous code.
+
+
+Purpose of async and await:
+
+1 - Non-blocking Execution:
+Prevents the main thread from being blocked while waiting for long-running operations (e.g., database calls, API requests, file I/O).
+Keeps the UI responsive in desktop and web applications.
+
+2 - Improves Performance & Scalability:
+Frees up threads to handle other requests while waiting for a task to complete.
+Essential for web applications handling multiple requests simultaneously.
+
+3 - Better Code Readability:
+Makes asynchronous code look like synchronous code, avoiding callbacks and improving maintainability.
