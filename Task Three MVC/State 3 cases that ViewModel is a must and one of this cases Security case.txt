@@ -1,0 +1,12 @@
+1 - Security: Prevent Overposting Attacks (Mass Assignment Vulnerability)
+- If you use Entity Models directly in the view, a malicious user could manipulate form fields and submit unintended data to be saved in the database.
+- To prevent this, ViewModels should only expose the necessary fields and hide sensitive properties.
+-------------------------------------------------------------------------------------------------------------------------------------------------------- 
+2 - Combining Multiple Models in One View
+- Sometimes, a view needs data from multiple models.
+- Since a view in MVC can only accept one model, a ViewModel helps combine multiple models into a single object.
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+3 - Formatting & Validating Data Before Displaying
+- If you need to format or validate data before displaying it, a ViewModel is required.
+- The ViewModel can contain additional properties, custom validation, or formatted fields.
+----------------------------------------------------------------------------------------------------------------------------------------------------------- 

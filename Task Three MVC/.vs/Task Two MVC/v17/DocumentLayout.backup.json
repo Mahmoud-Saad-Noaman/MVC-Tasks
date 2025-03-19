@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\views\\department\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\views\\department\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|d:\\rowad misr\\mvc tasks\\task two mvc\\task two mvc\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF73573E-1D3E-4BD2-B02C-22D64445C67B}|Task Two MVC\\Task Two MVC.csproj|solutionrelative:task two mvc\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "Task Two MVC\\Views\\Department\\ShowDetails.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeToolTip": "Task Two MVC\\Views\\Department\\ShowDetails.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T00:21:49.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "Task Two MVC\\Views\\Department\\Add.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "Task Two MVC\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T00:20:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "Task Two MVC\\Views\\Department\\ShowAll.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\ShowAll.cshtml",
+              "RelativeToolTip": "Task Two MVC\\Views\\Department\\ShowAll.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T00:20:32.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDetails.cshtml",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\DepartmentDetails.cshtml",
+              "RelativeDocumentMoniker": "Task Two MVC\\Views\\Department\\DepartmentDetails.cshtml",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Views\\Department\\DepartmentDetails.cshtml",
+              "RelativeToolTip": "Task Two MVC\\Views\\Department\\DepartmentDetails.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T00:16:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Task Two MVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Rowad Misr\\MVC Tasks\\Task Two MVC\\Task Two MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Task Two MVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:42:56.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
