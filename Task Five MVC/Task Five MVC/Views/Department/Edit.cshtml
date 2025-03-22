@@ -1,0 +1,63 @@
+﻿@model Task_Two_MVC.ViewModel.DepartmentViewModel
+
+<h2>Edit Department</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div> <!-- عرض جميع الأخطاء -->
+
+    <div class="mb-3">
+        <label asp-for="SelectedDepartmentName" class="form-label">Department Name</label>
+        <select asp-for="SelectedDepartmentName" class="form-control" asp-items="Model.Departments">
+            <option value="">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="SelectedDepartmentName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SelectedManagerName" class="form-label">Manager</label>
+        <input asp-for="SelectedManagerName" class="form-control" required />
+        <span asp-validation-for="SelectedManagerName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+@* 
+/////////////////////////////
+
+@model Task_Two_MVC.ViewModel.DepartmentViewModel
+
+<h2>Edit Department</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="SelectedDepartmentName" class="form-label">Department Name</label>
+        <select asp-for="SelectedDepartmentName" class="form-control" asp-items="Model.Departments">
+            <option value="">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="SelectedDepartmentName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SelectedManagerName" class="form-label">Manager</label>
+        <input asp-for="SelectedManagerName" class="form-control" required />
+        <span asp-validation-for="SelectedManagerName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+} *@

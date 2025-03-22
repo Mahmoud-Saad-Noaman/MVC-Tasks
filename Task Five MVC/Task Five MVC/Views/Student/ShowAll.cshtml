@@ -1,0 +1,54 @@
+﻿@model Task_Two_MVC.ViewModel.StudentPaginationViewModel
+
+@{
+    ViewData["Title"] = "All Students";
+    Layout = "_MyLayout";
+}
+
+<h1 style="color:aqua">Student List</h1>
+
+<table class="table table-bordered" style="color:aqua">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@(student.Department?.Name ?? "Not Assigned")</td>
+                <td>
+                    <a asp-action="ShowById" asp-route-id="@student.Id" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination d-flex justify-content-center mt-3">
+    @if (Model.HasPreviousPage)
+    {
+        <a asp-action="ShowAll" asp-route-pageNumber="@(Model.CurrentPage - 1)" class="btn btn-primary mx-2">Previous</a>
+    }
+
+    <span class="align-self-center">Page @Model.CurrentPage of @Model.TotalPages</span>
+
+    @if (Model.HasNextPage)
+    {
+        <a asp-action="ShowAll" asp-route-pageNumber="@(Model.CurrentPage + 1)" class="btn btn-primary mx-2">Next</a>
+    }
+</div>
+
+
+
+
+
+

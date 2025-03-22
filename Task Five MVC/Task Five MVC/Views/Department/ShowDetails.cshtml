@@ -1,0 +1,22 @@
+﻿@model Task_Two_MVC.Entities.Department
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<h2>Department Details</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th style="width: 200px; text-align: left;">Department Name</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th style="width: 200px; text-align: left;">Manager Name</th>
+        <td>@Model.MgrName</td>
+    </tr>
+</table>
+
+<br />
+<a asp-action="ShowAll" class="btn btn-secondary">Back to List</a>
+
