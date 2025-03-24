@@ -1,0 +1,35 @@
+﻿@model Task_Two_MVC.Entities.Course
+
+@{
+    ViewData["Title"] = "Delete Course";
+}
+
+<h1 class="text-danger">Delete Course</h1>
+<h4 class="text-danger">Are you sure you want to delete this course?</h4>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label class="form-label">Course Name</label>
+        <input class="form-control" value="@Model.Name" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Degree</label>
+        <input class="form-control" value="@Model.Degree" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Minimum Degree</label>
+        <input class="form-control" value="@Model.MinDegree" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Department</label>
+        <input class="form-control" value="@(Model.Department?.Name ?? "Not Assigned")" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>

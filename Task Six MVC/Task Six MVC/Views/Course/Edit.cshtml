@@ -1,0 +1,42 @@
+﻿@model Task_Two_MVC.ViewModel.CourseViewModel
+
+@{
+    ViewData["Title"] = "Edit Course";
+}
+
+<h2>Edit Course</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Course Name</label>
+        <input asp-for="Name" class="form-control" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Degree" class="form-label">Degree</label>
+        <input asp-for="Degree" type="number" class="form-control" required />
+        <span asp-validation-for="Degree" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MinDegree" class="form-label">Minimum Degree</label>
+        <input asp-for="MinDegree" type="number" class="form-control" required />
+        <span asp-validation-for="MinDegree" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DepartmentId" class="form-label">Department</label>
+        <select asp-for="DepartmentId" class="form-control" asp-items="Model.Departments"></select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

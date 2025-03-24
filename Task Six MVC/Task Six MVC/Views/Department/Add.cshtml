@@ -1,0 +1,28 @@
+﻿@model Task_Two_MVC.Entities.Department
+
+@{
+    ViewData["Title"] = "Add New Department";
+}
+
+<h2>Add New Department</h2>
+
+<form asp-action="Add" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Department Name</label>
+        <input asp-for="Name" class="form-control" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MgrName" class="form-label">Manager Name</label>
+        <input asp-for="MgrName" class="form-control" required />
+        <span asp-validation-for="MgrName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Add</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

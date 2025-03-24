@@ -1,0 +1,29 @@
+﻿@model Task_Two_MVC.ViewModel.StudentCourseResultViewModel 
+
+@{
+    ViewData["Title"] = "Student Course Result";
+    bool isPassed = Model.Degree >= Model.MinDegree;
+}
+
+<h2>Student Course Result</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Course Name</th>
+            <th>Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.StudentName</td>
+            <td>@Model.CourseName</td>
+            <td style="color: @(isPassed ? "green" : "red"); font-weight: bold;">
+                @Model.Degree
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<a asp-action="ShowAll" class="btn btn-secondary">Back</a>

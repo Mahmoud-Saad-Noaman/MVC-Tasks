@@ -1,0 +1,90 @@
+﻿@model Task_Two_MVC.ViewModel.DepartmentPaginationViewModel
+
+@{
+    ViewData["Title"] = "All Departments";
+}
+
+<h2>All Departments</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Manager Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dept in Model.Departments)
+        {
+            <tr>
+                <td>@dept.Id</td>
+                <td>@dept.Name</td>
+                <td>@(dept.MgrName ?? "Not Assigned")</td>
+                <td>
+                    <a asp-action="ShowDetails" asp-route-id="@dept.Id" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination d-flex justify-content-center mt-3">
+    @if (Model.HasPreviousPage)
+    {
+        <a asp-action="ShowAll" asp-route-pageNumber="@(Model.CurrentPage - 1)" class="btn btn-primary mx-2">Previous</a>
+    }
+
+    <span class="align-self-center">Page @Model.CurrentPage of @Model.TotalPages</span>
+
+    @if (Model.HasNextPage)
+    {
+        <a asp-action="ShowAll" asp-route-pageNumber="@(Model.CurrentPage + 1)" class="btn btn-primary mx-2">Next</a>
+    }
+</div>
+
+<a asp-action="Add" class="btn btn-success mt-3">Add New Department</a>
+
+
+
+
+
+
+
+
+
+@* @model List<Task_Two_MVC.Entities.Department>
+
+@{
+    ViewData["Title"] = "All Departments";
+}
+
+<h2>All Departments</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Manager Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dept in Model)
+        {
+            <tr>
+                <td>@dept.Id</td>
+                <td>@dept.Name</td>
+                <td>@dept.MgrName</td>
+                <td>
+                    <a asp-action="ShowDetails" asp-route-id="@dept.Id" class="btn btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Add" class="btn btn-success">Add New Department</a>
+ *@

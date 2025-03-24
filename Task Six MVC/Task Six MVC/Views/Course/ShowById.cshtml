@@ -1,0 +1,32 @@
+﻿@model Task_Two_MVC.Entities.Course
+
+@{
+    ViewData["Title"] = "Course Details";
+}
+
+<h1>Course Details</h1>
+
+<form>
+    <div class="mb-3">
+        <label class="form-label">Course Name</label>
+        <input class="form-control" value="@Model.Name" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Degree</label>
+        <input class="form-control" value="@Model.Degree" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Minimum Degree</label>
+        <input class="form-control" value="@Model.MinDegree" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Department</label>
+        <input class="form-control" value="@(Model.Department?.Name ?? "Not Assigned")" readonly />
+    </div>
+
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="ShowAll" class="btn btn-secondary">Back</a>
+</form>
