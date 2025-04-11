@@ -1,0 +1,26 @@
+﻿@model StudentViewModel
+
+<form asp-action="@ViewData["Action"]" method="post">
+    @if (Model.Id != 0)
+    {
+        <input type="hidden" asp-for="Id" />
+    }
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Age" class="form-label">Age</label>
+        <input asp-for="Age" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DepartmentId" class="form-label">Department</label>
+        <select asp-for="DepartmentId" class="form-control" asp-items="Model.Departments"></select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
